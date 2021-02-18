@@ -11,8 +11,8 @@
     var x = 0;
 
 // Images
-    document.getElementById("IMAGE").src = Images[i];
-    document.getElementById("name").innerHTML = Names[i];
+    document.getElementById("IMAGE").src = Images[x];
+    document.getElementById("name").innerHTML = Names[x];
 
 // Next
     function Next() 
